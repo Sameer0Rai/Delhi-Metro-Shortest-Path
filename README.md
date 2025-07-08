@@ -14,13 +14,6 @@ This Java project computes the minimum number of station-hops between any two st
 * ☕ Java Development Kit (JDK) 8 or later
 * 💻 Command-line access (Windows PowerShell, macOS Terminal, or Linux shell)
 
-## 📂 Project Structure
-
-```
-DelhiMetro/           # Project root
-├── DelhiMetro.java   # Main source file containing implementation
-└── README.md         # This documentation
-```
 
 ## 🚀 Getting Started
 
